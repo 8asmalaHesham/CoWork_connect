@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository and run the app:
 
